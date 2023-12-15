@@ -1,0 +1,2 @@
+- [ ] Ka mbetur cik polishing dhe validation qe duhen bere per fushat e form
+- [ ] Update the website
